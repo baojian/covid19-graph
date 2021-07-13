@@ -1,6 +1,6 @@
-### A dynamic graph embedding for COVID-19 graph
+### Knowledge Graph Embedding Evolution for COVID-19
 
-In this project website, we demonstrate our proposed dynamic graph embedding method, namely Dynamic Personalized PageRank Embedding (DynamicPPE) for learning a target subset of node representations over large-scale dynamic networks. We apply this method on a COVID-19 graph over the large English Wikipedia graph.
+In this project website, we demonstrate our proposed dynamic graph embedding method, namely Dynamic Personalized PageRank Embedding (DynamicPPE) for learning a target subset of node representations over large-scale dynamic networks. We apply this method on a COVID-19 graph over the large English Wikipedia graph. This project is supported by [Northeast Big Data Hub Seed Fund](https://nebigdatahub.org/seedfund/)(Award number:89931-1165360-1/AWD00002014).
 
 ### COVID19-graph construction
 
@@ -10,4 +10,4 @@ Since the structural changes can be well-captured by graph embedding, we use our
 
 ### Contact
 
-This project website contains the deliverable of Northeast Big Data Hub Seed Fund project (Award number:89931-1165360-1/AWD00002014). This project website is maintained by [Baojian Zhou](https://baojian.github.io/). Any questions can be sent to baojian.zhou at cs.stonybrook.edu.
+This project website is maintained by [Baojian Zhou](https://baojian.github.io/). Any questions can be sent to baojian.zhou at cs.stonybrook.edu.
