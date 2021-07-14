@@ -15,3 +15,7 @@ We target nine Chinese major cities and keep track of the embeddings in a 10-day
 ### Contact
 
 This website is maintained by [Baojian Zhou](https://baojian.github.io/). Any questions can be sent to baojian.zhou at cs.stonybrook.edu. This project is supported by [Northeast Big Data Hub Seed Fund](https://nebigdatahub.org/seedfund/)(Award number:89931-1165360-1/AWD00002014).
+
+### Reference
+[1] [Xingzhi Guo, Baojian Zhou, Steven Skiena, Subset Node Representation
+Learning over Large Dynamic Graphs, KDD, 2021](https://arxiv.org/abs/2106.01570)
