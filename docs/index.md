@@ -1,6 +1,6 @@
 ### Project Description
 
-In this project website, we demonstrate our proposed dynamic graph embedding method, namely Dynamic Personalized PageRank Embedding (DynamicPPE) for learning a target subset of node representations over large-scale dynamic networks. We apply this method on a COVID-19 graph over the large English Wikipedia graph. This project is supported by [Northeast Big Data Hub Seed Fund](https://nebigdatahub.org/seedfund/)(Award number:89931-1165360-1/AWD00002014).
+In this project website, we demonstrate our proposed dynamic graph embedding method, namely Dynamic Personalized PageRank Embedding (DynamicPPE) for learning a target subset of node representations over large-scale dynamic networks. We apply this method on a COVID-19 graph over the large English Wikipedia graph.
 
 ### COVID19-graph construction
 
@@ -14,4 +14,4 @@ We target nine Chinese major cities and keep track of the embeddings in a 10-day
 
 ### Contact
 
-This project website is maintained by [Baojian Zhou](https://baojian.github.io/). Any questions can be sent to baojian.zhou at cs.stonybrook.edu.
+This website is maintained by [Baojian Zhou](https://baojian.github.io/). Any questions can be sent to baojian.zhou at cs.stonybrook.edu. This project is supported by [Northeast Big Data Hub Seed Fund](https://nebigdatahub.org/seedfund/)(Award number:89931-1165360-1/AWD00002014).
